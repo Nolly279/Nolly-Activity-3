@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-Activity 3
+An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
